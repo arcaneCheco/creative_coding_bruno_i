@@ -1,0 +1,23 @@
+{
+  "name": "bruno_imbrizi_course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcaneCheco/creative_coding_bruno_i.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arcaneCheco/creative_coding_bruno_i/issues"
+  },
+  "homepage": "https://github.com/arcaneCheco/creative_coding_bruno_i#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.4"
+  }
+}
